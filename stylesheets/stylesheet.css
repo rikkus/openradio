@@ -314,6 +314,14 @@ Full-Width Styles
   text-shadow: #111 0px 0px 10px;
 }
 
+h3 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 200;
+  background: none;
+  text-shadow: #111 0px 0px 10px;
+}
+
 #downloads {
   position: absolute;
   width: 210px;
